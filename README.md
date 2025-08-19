@@ -37,6 +37,7 @@ $A_d$: the cross sectional area of the vascular lumen at end diastole
 $D$: the diameter of the vascular lumen  
 $D_s$: the diameter of the vascular lumen at peak systole  
 $D_d$: the diameter of the vascular lumen at end diastole  
+$\Delta P$: the difference in peak systolic and end-diastolic arterial pulse pressure
 
 ###### Diameter:  
 $$ D = 2 \times \sqrt{\frac{A}{\pi}} $$  
