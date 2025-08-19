@@ -51,6 +51,9 @@ $$ \text{Comp} = \frac{A_s - A_d}{\Delta P} $$
 ###### Stiffness Index:  
 $$ \beta = \frac{\ln(\Delta P)}{\frac{D_s - D_d}{D_d}} \times 10^{-1} $$  
 
+###### Young's Modulus of Elasticity:  
+$$ \text{Coming soon!} $$  
+
 
 ## Implementation and Setup Guide  
 ###### *Coming soon. I appreciate your patience!*  
@@ -113,6 +116,9 @@ The resulting output will be displayed in the console.
 #### Robust & Sophisticated Phase Identification Model  
 The development of more sophisticated machine learning models is planned for the precise detection of end-systolic and end-diastolic cardiac phases.  
 
+#### Young's Modulus of Elasticity Calculation
+The addition of a function in the Stiffness Calculator module that determines Young's Modulus of Elasticity (a mechanical property that describes a material's resistance to elastic deformation).  
+
 #### Comprehensive Error Management  
 Improvements in error handling mechanisms are anticipated to enhance resilience against corrupted or improperly formatted DICOM files.  
 
@@ -120,7 +126,7 @@ Improvements in error handling mechanisms are anticipated to enhance resilience 
 The creation of a specialized module for the visualization of IVUS images, segmented lumens, waveforms, and computed stiffness results is planned.  
 
 #### User Interface Development  
-The design and implementation of a streamlined graphical user interface (GUI) are considered to facilitate more intuitive user interaction.  
+The design and implementation of a streamlined GUI are considered to facilitate more intuitive user interaction.  
 
 #### Database Integration for Persistence  
 The integration with a persistent and queryable database is proposed for the storage and retrieval of analysis results.
